@@ -1,0 +1,26 @@
+.home{
+    display: flex;
+}
+
+.productContainer{
+    display: flex;
+    width: 85%;
+    padding: 20px;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card-body{
+    display: flex;
+    justify-content: space-between;
+}
+
+.image{
+    border-radius: 1px;
+    border-bottom: 1px solid rgb(212, 208, 208);
+    overflow: hidden;
+}
+
+.products{
+    margin: 0.2rem;
+}

@@ -1,0 +1,30 @@
+.filters {
+    background-color: #343a40;
+    color: white;
+    padding: 30px;
+    display: flex;
+    flex-direction: column;
+    width: 20%;
+    margin: 20px;
+    height: 45rem;
+  }
+  
+ p{
+    margin-left: 10px;
+    margin-bottom: 0px;
+    font-weight: 700;
+}
+
+ul{
+    box-sizing: border-box;
+    font-size: 17px;;
+    margin-left: 25px;
+    margin-top: 0px;
+    margin-bottom: 0px;
+}
+ 
+@media only screen and (max-width: 700px) {
+    .filters {
+    display: none;
+    }
+  }

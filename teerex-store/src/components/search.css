@@ -1,0 +1,10 @@
+.search{
+    display: flex;
+    max-width: 50rem;
+    margin: auto;
+    padding-top: 1rem;
+}
+
+#formControl{
+    background-color: rgb(228, 242, 237);
+}
